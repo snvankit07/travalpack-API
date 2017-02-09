@@ -1,0 +1,9 @@
+<Request>
+<FlightChoice>
+	<Source>M199X</Source>
+	<ClearBasket>Y</ClearBasket>
+	<ItemRef>7363715377431201001</ItemRef>
+	<OutAvail>001</OutAvail>
+	<InbAvail>002</InbAvail>
+</FlightChoice>
+</Request>

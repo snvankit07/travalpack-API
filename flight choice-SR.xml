@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<Reply>
+    <ShoppingBasketReply>
+        <ItemCount>1</ItemCount>
+        <HoldStatus>OK</HoldStatus>
+        <FlightChoice>
+            <Leg>
+                <From>LHR</From>
+                <To>FRA</To>
+                <DepDate>Fri 09Jun17</DepDate>
+                <DepTime>13:30</DepTime>
+                <ArrDate>Fri 09Jun17</ArrDate>
+                <ArrTime>16:05</ArrTime>
+                <Carrier>UA</Carrier>
+                <FltNo>8816</FltNo>
+                <DepTerminal>2</DepTerminal>
+                <ArrTerminal>1</ArrTerminal>
+                <MealCode>O</MealCode>
+                <Equip>320</Equip>
+                <Miles>  390</Miles>
+                <Time> 1:35</Time>
+                <ItemFRef>7363715377431201</ItemFRef>
+                <Text>UA 8816 DEUTSCHE LUFTHANSA AG</Text>
+                <LegType>1</LegType>
+                <Cabin>4</Cabin>
+                <Seats>6</Seats>
+                <Class>K</Class>
+            </Leg>
+            <Leg>
+                <From>FRA</From>
+                <To>MCO</To>
+                <DepDate>Sat 10Jun17</DepDate>
+                <DepTime>13:50</DepTime>
+                <ArrDate>Sat 10Jun17</ArrDate>
+                <ArrTime>17:50</ArrTime>
+                <Carrier>UA</Carrier>
+                <FltNo>9065</FltNo>
+                <DepTerminal>1</DepTerminal>
+                <ArrTerminal></ArrTerminal>
+                <MealCode>M</MealCode>
+                <Equip>744</Equip>
+                <Miles> 4733</Miles>
+                <Time>10:00</Time>
+                <ItemFRef>7363715377431201</ItemFRef>
+                <Text>UA 9065 DEUTSCHE LUFTHANSA AG</Text>
+                <GroundTime>21:45</GroundTime>
+                <LegType>1</LegType>
+                <Cabin>4</Cabin>
+                <Seats>4</Seats>
+                <Class>K</Class>
+            </Leg>
+            <Leg>
+                <From>MCO</From>
+                <To>YYZ</To>
+                <DepDate>Fri 16Jun17</DepDate>
+                <DepTime>18:45</DepTime>
+                <ArrDate>Fri 16Jun17</ArrDate>
+                <ArrTime>21:28</ArrTime>
+                <Carrier>AC</Carrier>
+                <FltNo>1869</FltNo>
+                <DepTerminal></DepTerminal>
+                <ArrTerminal>1</ArrTerminal>
+                <MealCode>M</MealCode>
+                <Equip>319</Equip>
+                <Miles> 1038</Miles>
+                <Time> 2:43</Time>
+                <ItemFRef>7363715377431201</ItemFRef>
+                <Text>AC 1869 AIR CANADA ROUGE</Text>
+                <LegType>2</LegType>
+                <Cabin>4</Cabin>
+                <Seats>7</Seats>
+                <Class>K</Class>
+            </Leg>
+            <Leg>
+                <From>YYZ</From>
+                <To>LHR</To>
+                <DepDate>Sat 17Jun17</DepDate>
+                <DepTime>09:10</DepTime>
+                <ArrDate>Sat 17Jun17</ArrDate>
+                <ArrTime>21:00</ArrTime>
+                <Carrier>AC</Carrier>
+                <FltNo> 868</FltNo>
+                <DepTerminal>1</DepTerminal>
+                <ArrTerminal>2</ArrTerminal>
+                <MealCode>B</MealCode>
+                <Equip>789</Equip>
+                <Miles> 3578</Miles>
+                <Time> 6:50</Time>
+                <ItemFRef>7363715377431201</ItemFRef>
+                <GroundTime>12:02</GroundTime>
+                <LegType>2</LegType>
+                <Cabin>4</Cabin>
+                <Seats>7</Seats>
+                <Class>K</Class>
+            </Leg>
+        </FlightChoice>
+        <PricingInfo>
+            <No>1</No>
+            <Item>1 x Adult Ticket</Item>
+            <Price>    113.61</Price>
+            <Total>113.61</Total>
+        </PricingInfo>
+        <PricingInfo>
+            <No>1</No>
+            <Item>1 x Adult Airport Tax</Item>
+            <Price>    372.90</Price>
+            <Total>372.90</Total>
+        </PricingInfo>
+        <PricingInfo>
+            <No>1</No>
+            <Item>1 x Adult ATOL Protection Contribution</Item>
+            <Price>      0.00</Price>
+            <Total>0.00</Total>
+        </PricingInfo>
+        <BookingInfo>
+            <Adults>1</Adults>
+            <Children>0</Children>
+            <Infants>0</Infants>
+            <FirstDate>09/06/2017</FirstDate>
+            <LastDate>17/06/2017</LastDate>
+            <ChildDOB>18062005</ChildDOB>
+            <InfantDOB>18062015</InfantDOB>
+        </BookingInfo>
+        <TotalPrice>486.51</TotalPrice>
+    </ShoppingBasketReply>
+</Reply>
